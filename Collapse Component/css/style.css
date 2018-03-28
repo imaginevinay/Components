@@ -22,3 +22,8 @@
     padding: 20px;
     text-align: justify;
 }
+.card-title a {
+    color: slateblue;
+    font-weight: 600;
+    text-decoration: none;
+}
